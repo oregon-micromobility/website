@@ -7,57 +7,36 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Priorities"
+url = "/priorities"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Who We Are"
+url = "/about"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Get Involved"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+parent = "Get Involved"
+name = "Become a Supporter"
+url = "/donate"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
-
+parent = "Get Involved"
+name = "Sign up for our Newsletter"
+url = "/newsletter"
 
 # footer menu
 [[footer]]
-name = "About"
-url = "/about"
+name = "Priorities"
+url = "/priorities"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Who We Are"
+url = "/about"
 weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
