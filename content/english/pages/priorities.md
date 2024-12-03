@@ -18,6 +18,12 @@ draft: false
 * **Device Definitions**: Create comprehensive definitions for micromobility vehicles to reduce regulatory confusion.  
 * **Driver Education**: Integrate micromobility training into licensing and incentivize safe driving through insurance discounts.
 
+<div class="row justify-center">
+  <div class="col-4 mb-2">
+    <a href="/files/OMN_2025_priorities.pdf" class="btn btn-primary">Download our 2-Pager</a>
+  </div>
+</div>
+
 #### Get Involved
 
 Your support helps ensure micromobility is safe, sustainable, and available for all Oregonians. [Donate now](/donate) and join the movement. Together, we can lead Oregon into a cleaner, safer transportation future.
