@@ -20,7 +20,7 @@ draft: false
 
 <div class="row justify-center">
   <div class="col-4 mb-2">
-    <a href="/files/OMN_2025_priorities.pdf" class="btn btn-primary">Download our 2-Pager</a>
+    <a href="/files/OMN_2025_priorities.pdf" class="btn btn-primary">OMN's 2025 Legislative Priorities [PDF Download]</a>
   </div>
 </div>
 
